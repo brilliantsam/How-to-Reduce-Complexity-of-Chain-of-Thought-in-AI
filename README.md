@@ -9,7 +9,7 @@ Reasoning should not be an autoregressive text generation task, but more of a co
 
 Using techniques from real analysis, one can construct a reasoning vector that wanders through a latent space until it falls into a pre-defined radius of a crystalline logical expert. Once a logical density threshold is reached the model mathematically commits to the discrete path, halting the thinking loop early to save compute.
 
-Again, I must stress that this is not to prove the concept with a pre-trained, production ready LLM - this is merely to shpw proof of concept.
+Again, I must stress that this is not to prove the concept with a pre-trained, production ready LLM - this is merely to show proof of concept.
 
 I will add more mathematical explanations if required in future. If this works, I see no reason not to raise money for my own foundation AI model company.
 
