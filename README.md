@@ -3,7 +3,7 @@ Arithmetic Density baked into neural networks to remove the graph pruning cost o
 
 This idea basically came about from a paper I wrote privately on the subject of Hybrid Gödel Machines and a prior I came up with for them. With great conversations from many AI models, I eventually realised that instead of arithmetic density applied to theorem space one could apply it to the weights of a practical neural network! This hopefully completely bypasses the overhead that is currently churning through the world's electricity and data center infrastructure by running logical self-reflection within the neural network's training itself.
 
-This code is not written under the guise of the custom CUDA kernels to run this implementation at scale, but it is intended to show that AI can maybe done more effectively/efficiently.
+This code is not written under the guise of the custom CUDA kernels to run this implementation at scale, but it is intended to show that AI can possibly be done more effectively/efficiently.
 
 Reasoning should not be an autoregressive text generation task, but more of a continuous, recurrent, update loop in a latent vector space R^D that minimises overhead!
 
@@ -11,7 +11,7 @@ Using techniques from real analysis, one can construct a reasoning vector that w
 
 Again, I must stress that this is not to prove the concept with a pre-trained, production ready LLM - this is merely to shpw proof of concept.
 
-I will add more mathematical explanations if required in future.
+I will add more mathematical explanations if required in future. If this works, I see no reason not to raise money for my own foundation AI model company.
 
 
 
